@@ -30,7 +30,7 @@ https://www.michaels.com/product/glitzhome-6ft-prelit-green-full-fir-christmas-t
 
 ## Repository Contents
 
-- `product_price_tracker.ipynb`*– Web-scraping and price-tracking code
+- `product_price_tracker.ipynb`– Web-scraping and price-tracking code
 - `README.md`– Project documentation
 
 ## Notes
